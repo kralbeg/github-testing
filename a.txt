@@ -1,7 +1,7 @@
-def topla(x,y)
+def add(x,y)
    print(x+y)
 
-topla(25,35)
+add(25,35)
 
 def hello()
 	print("hello")
