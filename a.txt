@@ -3,3 +3,6 @@ def topla(x,y)
 
 topla(25,35)
 
+def hello()
+	print("hello")
+hello()
