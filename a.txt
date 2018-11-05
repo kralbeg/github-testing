@@ -1,0 +1,5 @@
+def topla(x,y)
+   print(x+y)
+
+topla(25,35)
+
